@@ -21,9 +21,9 @@ npm run test
 
 -   Github: [@ziarkowskaev](https://github.com/ziarkowskaev)
 
-## Show your support
+## Screenshot of the application
 
-Give a ⭐️ if this project helped you!
+<img width="873" height="461" alt="image" src="https://github.com/user-attachments/assets/db9d6f2b-ebf4-44e3-9157-800d0a900b18" />
 
 ---
 
